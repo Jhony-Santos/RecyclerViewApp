@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ReclyclerViewApp</string>
+    <string name="button_to_add_new_item">Button to add new item</string>
 </resources>
